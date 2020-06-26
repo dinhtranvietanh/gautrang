@@ -107,7 +107,7 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 	        </button>
-	        <h1 class="navbar-brand"><a  href="index.html">vietanh toy</a></h1>
+	        <h1 class="navbar-brand"><a  href="index.html">the gioi me va be</a></h1>
 	    </div>
 	    <!--/.navbar-header-->
 	
