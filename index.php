@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Swim Wear a E-Commerce online Shopping Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>ATN a E-Commerce online Shopping Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/owl.carousel.css" rel="stylesheet">
@@ -107,7 +107,7 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 	        </button>
-	        <h1 class="navbar-brand"><a  href="index.html">swim wear</a></h1>
+	        <h1 class="navbar-brand"><a  href="index.html">vietanh toy</a></h1>
 	    </div>
 	    <!--/.navbar-header-->
 	
