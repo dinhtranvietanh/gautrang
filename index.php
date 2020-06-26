@@ -255,7 +255,7 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 						<a href="products.html" class="button"> shop now </a>
 					</div>
 				<div class="col-md-6 banner-grid1">
-						<img src="images/p2.png" class="img-responsive" alt=""/>
+						<img src="images/p2.jpg" class="img-responsive" alt=""/>
 				</div>
 				<div class="clearfix"></div>
 			</div>
