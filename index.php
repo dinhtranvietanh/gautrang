@@ -350,7 +350,7 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 			<h3>Featured products</h3>
 			<div class="gallery-grids">
 				<div class="col-md-3 gallery-grid ">
-					<a href="products.html"><img src="images/g1.png" class="img-responsive" alt=""/>
+					<a href="products.html"><img src="images/g1.jpg" class="img-responsive" alt=""/>
 					<div class="gallery-info">
 					<div class="quick">
 					<p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
@@ -375,7 +375,7 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 					</div>
 				</div>
 				<div class="col-md-3 gallery-grid">
-						<a href="products.html"><img src="images/g2.png" class="img-responsive" alt=""/>
+						<a href="products.html"><img src="images/g2.jpg" class="img-responsive" alt=""/>
 						<div class="gallery-info">
 					<div class="quick">
 					<p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
@@ -400,7 +400,7 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 					</div>
 				</div>
 					<div class="col-md-3 gallery-grid">
-						<a href="products.html"><img src="images/g3.png" class="img-responsive" alt=""/>
+						<a href="products.html"><img src="images/g3.jpg" class="img-responsive" alt=""/>
 						<div class="gallery-info">
 					<div class="quick">
 					<p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
@@ -427,7 +427,7 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 				<!---728x90--->
 
 				<div class="col-md-3 gallery-grid">
-						<a href="products.html"><img src="images/g4.png" class="img-responsive" alt=""/>
+						<a href="products.html"><img src="images/g4.jpg" class="img-responsive" alt=""/>
 						<div class="gallery-info">
 					<div class="quick">
 					<p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
